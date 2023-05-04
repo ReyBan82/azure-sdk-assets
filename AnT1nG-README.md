@@ -1,3 +1,5 @@
+![FB_IMG_1670469981098](https://user-images.githubusercontent.com/91646027/236144241-5b7ac1c5-0e34-4e7c-8d77-bcd59532ef99.jpg)
+![FB_IMG_1670469981098](https://user-images.githubusercontent.com/91646027/236144453-864f862b-896f-4c93-aea8-db62095bfe1e.jpg)
 # Azure SDK Assets
 
 This repository is used for resources that the Azure SDK team does not wish to be confined within any of our language-specific repositories.
